@@ -1,0 +1,175 @@
+body { 
+	font-family: 'Chakra Petch', sans-serif !important;
+	background: url(../images/home.png);
+}
+
+header { 
+	background: url(../images/home.jpg);
+}
+
+#icon {
+	font-size: 3em;
+	padding-bottom: 1%;
+}
+
+#colonna {
+	background:url(../images/home.jpg);
+	color: white;
+	padding: 1%;
+	margin: 0px auto;
+	bottom: 20px;
+}
+
+#video {
+	height: 40%;
+	width: 30%;
+}
+
+#home {
+	font-family: 'Chakra Petch', serif !important;
+	text-align: center;
+	font-size: 7em;
+	position: absolute;
+	left: 90px; 
+	color: #cc0000;
+	text-shadow: -5px 0 #000, 0 5px #000, 5px 0 #000, 0 -5px #000;
+	line-height: 200%; 
+	opacity: 1;
+}
+
+#testo {
+	font-size: 2.1em;
+	position: absolute;
+	left: 50px;
+	opacity: 1;
+	color: white;
+	line-height: 320%;
+	text-shadow: -3.5px 0 #000, 0 3.5px #000, 3.5px 0 #000, 0 -3.5px #000;
+}
+
+#spotify {
+	padding-left: 85%;
+	font-size: 3em;
+	color: green;
+}
+
+#serie {
+	top: 70px;
+	color: white;
+	background: url(../images/home.jpg);
+	text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
+	padding: 1%;
+	opacity: 0.8;
+	font-size: 1.2em;
+}
+
+#spiegazione {
+	position: absolute;
+	font-size: 1.5em;
+	top: 400px;
+	color: white;
+	text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
+	padding: 1%;
+	opacity: 1;
+	left: 65px; 
+	text-align: center;
+}
+
+#nota {
+	font-size: 0.8em;
+	text-shadow: none;
+	position: absolute;
+	top:  430px;
+	color: white;
+	padding-left: 79%;
+	text-align: center;
+}
+
+#mail {
+    font-size: 3em;
+    padding-left: 3%;
+    padding-bottom: 2%;
+    color: white;
+}
+
+#instagram {
+	font-size: 3em;
+	color: pink;
+	padding-left: 6%;
+}
+
+#footer {
+	bottom: 0px;
+	top: 800px;
+	position: relative;
+	background: url(../images/home.jpg);
+	color: white;
+	font-size: 0.8em;
+}
+
+#footer1 {
+	bottom: 0px;
+	position: relative;
+	background: url(../images/home.jpg);
+	color: white;
+	font-size: 0.8em;
+	padding-bottom: 2px;
+}
+
+#footer2 {
+	bottom: 0px;
+	position: relative;
+	background: url(../images/home.jpg);
+	color: white;
+	font-size: 0.8em;
+	padding-bottom: 2px;
+}
+
+#footer3 {
+	bottom: 0px;
+	position: relative;
+	background: url(../images/home.jpg);
+	color: white;
+	font-size: 0.8em;
+	padding-bottom: 2px;
+}
+
+#footer4 {
+	bottom: 0px;
+	position: relative;
+	background: url(../images/home.jpg);
+	color: white;
+	font-size: 0.8em;
+	padding-bottom: 2px;
+}
+
+#footera {
+	bottom: 0px;
+	top: 100px;
+	position: relative;
+	background: url(../images/home.jpg);
+	color: white;
+	font-size: 0.8em;
+	padding-bottom: 2px;
+}
+
+#footerc {
+	bottom: 0px;
+	top: 100px;
+	position: relative;
+	background: url(../images/home.jpg);
+	color: white;
+	font-size: 0.8em;
+}
+
+#condividi {
+	font-size: 1.5em;
+}
+
+.dropdown-menu {
+	background: url(../images/home.jpg) !important;
+}
+
+.dropdown-item {
+	color: grey !important;
+}
