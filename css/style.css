@@ -46,7 +46,7 @@ header {
 	opacity: 1;
 	color: lightblue;
 	line-height: 150%;
-	text-shadow: -3.5px 0 #000, 0 3.5px #000, 3.5px 0 #000, 0 -3.5px #000;
+	text-shadow: -3px 0 #000, 0 3px #000, 3px 0 #000, 0 -3px #000;
 }
 
 #spotify {
@@ -112,7 +112,7 @@ header {
 
 #condividi {
 	font-size: 1.5em;
-	padding: 2px;
+	padding: 3px;    
 }
 
 .dropdown-menu {
