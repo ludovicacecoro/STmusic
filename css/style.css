@@ -29,60 +29,47 @@ header {
 	font-family: 'Chakra Petch', serif !important;
 	text-align: center;
 	font-size: 7em;
-	position: absolute;
-	left: 90px; 
+	position: relative; 
 	color: #cc0000;
 	text-shadow: -5px 0 #000, 0 5px #000, 5px 0 #000, 0 -5px #000;
-	line-height: 200%; 
+	line-height: 120%; 
+	top: 30px;
 	opacity: 1;
 }
 
 #testo {
 	font-size: 2.1em;
-	position: absolute;
-	left: 50px;
+	position: relative;
+	text-align: center;
 	opacity: 1;
 	color: white;
-	line-height: 320%;
+	line-height: 150%;
 	text-shadow: -3.5px 0 #000, 0 3.5px #000, 3.5px 0 #000, 0 -3.5px #000;
 }
 
 #spotify {
-	padding-left: 85%;
-	font-size: 3em;
+	text-align: center;
+	font-size: 2em;
 	color: green;
-}
-
-#serie {
-	top: 70px;
-	color: white;
-	background: url(../images/home.jpg);
-	text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
-	padding: 1%;
-	opacity: 0.8;
-	font-size: 1.2em;
+	position: relative;
 }
 
 #spiegazione {
-	position: absolute;
+	position: sticky;
 	font-size: 1.5em;
-	top: 400px;
 	color: white;
 	text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
-	padding: 1%;
-	opacity: 1;
-	left: 65px; 
+	padding: 5%;
+	opacity: 1; 
 	text-align: center;
 }
 
 #nota {
-	font-size: 0.8em;
+	font-size: 0.4em;
 	text-shadow: none;
-	position: absolute;
-	top:  430px;
+	position: relative;
 	color: white;
-	padding-left: 79%;
-	text-align: center;
+	bottom: 20px;
 }
 
 #mail {
@@ -100,11 +87,11 @@ header {
 
 #footer {
 	bottom: 0px;
-	top: 800px;
 	position: relative;
 	background: url(../images/home.jpg);
 	color: white;
 	font-size: 0.8em;
+	padding-bottom: 2px;
 }
 
 #footer1 {
@@ -160,6 +147,7 @@ header {
 	background: url(../images/home.jpg);
 	color: white;
 	font-size: 0.8em;
+	padding-bottom: 2px;
 }
 
 #condividi {
@@ -172,4 +160,14 @@ header {
 
 .dropdown-item {
 	color: grey !important;
+}
+
+#serie {
+	top: 70px;
+	color: white;
+	background: url(../images/home.jpg);
+	text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
+	padding: 1%;
+	opacity: 0.8;
+	font-size: 1.2em;
 }
