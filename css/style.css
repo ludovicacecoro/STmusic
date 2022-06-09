@@ -79,12 +79,14 @@ header {
     padding-left: 3%;
     padding-bottom: 2%;
     color: white;
+    text-align: center;
 }
 
 #instagram {
 	font-size: 3em;
-	color: pink;
 	padding-left: 6%;
+	color: pink;
+	text-align: center;
 }
 
 .footer {
