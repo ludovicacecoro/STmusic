@@ -17,7 +17,7 @@ header {
 #colonna {
 	background:url(../images/home.jpg);
 	color: white;
-	padding: 1%;
+	padding: 1px;
 	margin: 0px auto;
 	bottom: 20px;
 }
