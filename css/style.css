@@ -44,16 +44,18 @@ header {
 	position: relative;
 	text-align: center;
 	opacity: 1;
-	color: white;
+	color: lightblue;
 	line-height: 150%;
 	text-shadow: -3.5px 0 #000, 0 3.5px #000, 3.5px 0 #000, 0 -3.5px #000;
 }
 
 #spotify {
 	text-align: center;
-	font-size: 2em;
+	font-size: 3em;
 	color: green;
 	position: relative;
+	text-shadow: -3.5px 0 #000, 0 3.5px #000, 3.5px 0 #000, 0 -3.5px #000;
+	line-height: 5% !important;
 }
 
 #spiegazione {
@@ -67,7 +69,7 @@ header {
 }
 
 #nota {
-	font-size: 0.3em;
+	font-size: 0.5em;
 	text-shadow: none;
 	position: relative;
 	color: white;
@@ -84,7 +86,7 @@ header {
 
 #instagram {
 	font-size: 3em;
-	padding-left: 6%;
+	padding-left: 7%;
 	color: pink;
 	text-align: center;
 }
@@ -110,6 +112,7 @@ header {
 
 #condividi {
 	font-size: 1.5em;
+	padding: 2px;
 }
 
 .dropdown-menu {
