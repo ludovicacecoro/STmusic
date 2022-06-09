@@ -28,7 +28,7 @@ header {
 #home {
 	font-family: 'Chakra Petch', serif !important;
 	text-align: center;
-	font-size: 7em;
+	font-size: 6em;
 	position: relative; 
 	color: #cc0000;
 	text-shadow: -5px 0 #000, 0 5px #000, 5px 0 #000, 0 -5px #000;
@@ -43,7 +43,7 @@ header {
 	text-align: center;
 	opacity: 1;
 	color: white;
-	line-height: 150%;
+	line-height: 100%;
 	text-shadow: -3.5px 0 #000, 0 3.5px #000, 3.5px 0 #000, 0 -3.5px #000;
 }
 
@@ -69,7 +69,7 @@ header {
 	text-shadow: none;
 	position: relative;
 	color: white;
-	bottom: 20px;
+	bottom: 15px;
 }
 
 #mail {
