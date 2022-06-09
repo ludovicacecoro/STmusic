@@ -1,11 +1,13 @@
 body { 
 	font-family: 'Chakra Petch', sans-serif !important;
 	background: url(../images/home.png);
+	background-position: -200px 50px;
 }
 
 header { 
 	background: url(../images/home.jpg);
 }
+
 
 #icon {
 	font-size: 3em;
