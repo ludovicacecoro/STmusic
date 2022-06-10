@@ -143,9 +143,19 @@ header {
 }
 
 .doc {
-	background: url(../images/home.jpg);
+	background-color: #08091b;
     color: white;
 	opacity: 0.8;
 	padding: 20px;
 	margin: 20px;
+}
+
+.layout {
+	height: 350px;
+	width: 550px;
+}
+
+.layout2 {
+	height: 350px;
+	width: 350px;
 }
