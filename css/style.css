@@ -157,10 +157,10 @@ header {
 
 .layout2 {
 	height: 350px;
-	width: 350px;
+	width: auto;
 }
 
 .like {
 	height: 550px;
-	width: 300px;
+	width: auto;
 }
