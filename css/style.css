@@ -8,6 +8,7 @@ header {
 	background: url(../images/home.jpg);
 }
 
+/*stagioni*/
 
 #icon {
 	font-size: 3em;
@@ -26,6 +27,8 @@ header {
 	height: 200px;
 	width: 350px;
 }
+
+/*home*/
 
 #home {
 	font-family: 'Chakra Petch', sans-serif !important;
@@ -78,6 +81,8 @@ header {
 	bottom: 15px;
 }
 
+/*contatti*/
+
 #mail {
     font-size: 3em;
     padding-left: 3%;
@@ -92,6 +97,8 @@ header {
 	color: pink;
 	text-align: center;
 }
+
+/*footer*/
 
 .footer {
 	bottom: 0px;
@@ -118,6 +125,8 @@ header {
 	color: white;    
 }
 
+/*header*/
+
 .dropdown-menu {
 	background: url(../images/home.jpg) !important;
 }
@@ -125,6 +134,8 @@ header {
 .dropdown-item {
 	color: grey !important;
 }
+
+/*about*/
 
 #serie {
 	top: 70px;
@@ -136,6 +147,7 @@ header {
 	font-size: 1.2em;
 	margin: 5px;
 }
+/*documentazione*/
 
 #doc {
 	color: white;
